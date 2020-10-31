@@ -27,12 +27,12 @@ avatar: /assets/img/avatar.jpg   # support internet resources
 github:
   username: joaomarcos96             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   name: João Marcos S B de Moraes                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/username       # change to your github homepage
