@@ -8,14 +8,13 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Blog do João Marcos                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Um blog sobre desenvolvimento de software
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Um blog sobre desenvolvimento de aplicações web,
+  mobile e software no geral.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://joaomarcos96.github.io'
@@ -35,8 +34,7 @@ social:
   # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/username       # change to your github homepage
-    - https://www.facebook.com/joao.marcos765
+    - https://github.com/joaomarcos96       # change to your github homepage
     - https://www.linkedin.com/in/joao-marcos-sbm
     - https://stackoverflow.com/users/9777674/joaomarcos96
 
