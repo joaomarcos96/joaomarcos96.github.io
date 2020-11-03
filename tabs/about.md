@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre
 
 # The About page
 # v2.0
@@ -8,4 +8,16 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Seja bem-vindo ao blog!
+
+Meu nome é João Marcos. Trabalho como desenvolvedor de software desde 2018, no mercado web e mobile.
+
+Criei esse blog com a intenção de publicar tutoriais e falar sobre minhas experiências com desenvolvimento de software no geral.
+
+---
+
+GitHub: https://github.com/joaomarcos96
+
+LinkedIn: https://www.linkedin.com/in/joao-marcos-sbm
+
+StackOverflow: https://stackoverflow.com/users/9777674/joaomarcos96
